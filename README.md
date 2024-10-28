@@ -8,21 +8,27 @@ This Kaggle course is designed to build core Pandas skills through short, practi
 
 **Lessons**
 1. **Creating, Reading, and Writing**
+   
 Learn to import data from various sources like CSV and Excel and export data to different formats.
 
-2. **Indexing, Selecting & Assigning**
+3. **Indexing, Selecting & Assigning**
+   
 Master accessing and modifying specific subsets of data—a fundamental skill in data manipulation.
 
-3. **Summary Functions and Maps**
+5. **Summary Functions and Maps**
+   
 Extract insights by calculating summary statistics and applying functions across datasets.
 
-4. **Grouping and Sorting**
+7. **Grouping and Sorting**
+   
 Gain insights by grouping data by categories and sorting it in meaningful ways.
 
-5. **Data Types and Missing Values**
+9. **Data Types and Missing Values**
+    
 Tackle missing data and adjust data types to suit analysis requirements.
 
-6. **Renaming and Combining**
+11. **Renaming and Combining**
+    
 Prepare data from multiple sources for analysis by renaming and merging datasets efficiently.
 
 ## **🎓 Course Details**
@@ -37,12 +43,13 @@ Prepare data from multiple sources for analysis by renaming and merging datasets
 ## **🚀 How to Use This Repository**
 
 1. **Clone the Repository**
+   
 `git clone https://github.com/your-username/wd-kaggle-pandas-playground.git`
 
-2. **Explore the Notebooks**
+3. **Explore the Notebooks**
 Each notebook covers a specific lesson with exercises, explanations, and solutions.
 
-3. **Run the Code**
+4. **Run the Code**
 Use Jupyter Notebook or Kaggle to run the code, test examples, and gain hands-on experience.
 
 ## **🤝 Contribute and Engage**
