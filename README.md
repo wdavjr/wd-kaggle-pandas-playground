@@ -1,10 +1,10 @@
-# Pandas Learning Path
+# Pandas Playground!
 ## Level Up Your Data Manipulation Skills
 
-wd-kaggle-pandas-playground
+
 Welcome to the Pandas Playground! This repository showcases my journey through Kaggle's Pandas course, providing hands-on practice for mastering data manipulation skills essential for data science.
 
-📜 Course Overview
+## **📜 Course Overview**
 This Kaggle course is designed to build core Pandas skills through short, practical exercises. Here's a breakdown of what you'll find:
 
 Lessons
